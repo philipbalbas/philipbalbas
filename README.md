@@ -1,6 +1,7 @@
 ## I'm Philip, a freelance software developer from the Philippines 🇵🇭
 
 I build web applications with ❤️ using JavaScript.
+I also use Python and Elixir. Currently learning Rust.
 
 I plan to build more projects focused in creative coding and machine learning.
 
