@@ -1,77 +1,51 @@
-## I'm Philip, a freelance software developer from the Philippines 🇵🇭
+# Philip Balbas
 
-I build web applications with ❤️ using JavaScript.
-I also use Python and Elixir. Currently learning Rust.
+**Engineer. Builder. Artist.** · *Systems, made legible.*
 
-I plan to build more projects focused in creative coding and machine learning.
+Lead engineer from the Philippines, shaping complex systems into clear, dependable products.
 
-## Tech Stack
+[balbas.io](https://balbas.io) · [About](https://balbas.io/about) · [Projects](https://balbas.io/projects) · [Posts](https://balbas.io/posts) · [Contact](https://balbas.io/contact)
 
-<div align="center">
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-         alt="React"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-         alt="TypeScript"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-         alt="JavaScript"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white"
-         alt="NextJS"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"
-         alt="NodeJS"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-         alt="Python"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-         alt="GraphQL"
-    />
-  </a>
-  <a href="https://balbas.io" target="_blank">
-    <img
-         align="center"
-         src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-         alt="Docker"
-    />
-  </a>
-</div>
+## The departure
 
-## Stats
+I'm a lead engineer from the Philippines with 9 years of backend and AI experience.
 
-[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=philipbalbas&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philipbalbas&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I build backend-heavy products, LLM systems, and practical software with strong product instincts, then use creative coding as a way to explore interfaces beyond standard SaaS patterns.
 
-<!---
-philipbalbas/philipbalbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a self-taught developer. I explore different languages and tools when working on side projects to expand my knowledge. Previously, I was a registered pharmacist working in clinical research.
+
+## Mission records
+
+- **Story Pitch Decks** — A production pitch-deck workflow shaped around long-running AI and Google service operations.
+- **ReviewMcq** — An offline-capable board-review platform with a documented boundary between implemented learning workflows and designed product direction.
+- **APLI Internship App** — A virtual internship learning experience for pharmacy interns.
+
+Mission index: [balbas.io/projects](https://balbas.io/projects)
+
+## Systems array
+
+**Bay A · Stack** — TypeScript · Python · Elixir · Go · PostgreSQL · Node.js · Docker · AWS · Kubernetes · GCP · LangChain · React · Svelte · Astro
+
+**Bay B · Backend systems** — High-throughput APIs, event-driven pipelines, database architecture, and distributed systems built for production scale.
+
+**Bay C · AI products** — End-to-end AI product development — prompt engineering, retrieval systems, agent orchestration, and evaluation pipelines.
+
+**Bay D · Service record**
+
+| Years | Role | Where |
+|---|---|---|
+| 2024–2026 | Lead Software Engineer | Story Pitch Decks |
+| 2022–2024 | Platform Engineer | Julep AI |
+| 2021–2022 | Software Engineer | Jar |
+| 2019–2021 | Software Engineer | Whitehead AI |
+| 2017–2019 | Backend & Full-Stack Developer | PDAX / Medgrocer / Upwork |
+
+**Off-hours** — martial arts · music production · game development · TTRPGs · 3D printing · robotics · singing · reading · artistic pursuits · podcasts
+
+## Far berth · Let's Build
+
+If you want help with backend systems, AI products, or experimental interfaces, reach out.
+
+[balbas.io/contact](https://balbas.io/contact) · [LinkedIn](https://www.linkedin.com/in/philip-balbas-262286199) · [GitHub](https://github.com/philipbalbas)
+
+`balbas.io_`
