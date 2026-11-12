@@ -51,11 +51,15 @@ Side builds, private while in progress.
 
 **Languages**
 
-<img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6" /> <img alt="Go" title="Go" src="https://img.shields.io/badge/Go-24292F?style=flat-square&logo=go&logoColor=00ADD8" /> <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB" /> <img alt="Elixir" title="Elixir" src="https://img.shields.io/badge/Elixir-24292F?style=flat-square&logo=elixir&logoColor=8847B9" /> <img alt="Rust" title="Rust" src="https://img.shields.io/badge/Rust-24292F?style=flat-square&logo=rust&logoColor=FFFFFF" />
+<img alt="TypeScript" title="TypeScript" src="https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=3178C6" /> <img alt="Go" title="Go" src="https://img.shields.io/badge/Go-24292F?style=flat-square&logo=go&logoColor=00ADD8" /> <img alt="Python" title="Python" src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=3776AB" /> <img alt="Elixir" title="Elixir" src="https://img.shields.io/badge/Elixir-24292F?style=flat-square&logo=elixir&logoColor=8847B9" /> <img alt="Rust" title="Rust" src="https://img.shields.io/badge/Rust-24292F?style=flat-square&logo=rust&logoColor=FFFFFF" /> <img alt="OCaml" title="OCaml" src="https://img.shields.io/badge/OCaml-24292F?style=flat-square&logo=ocaml&logoColor=EC6D13" />
 
 **Frontend**
 
-<img alt="React" title="React" src="https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Svelte" title="Svelte" src="https://img.shields.io/badge/Svelte-24292F?style=flat-square&logo=svelte&logoColor=FF3E00" /> <img alt="Astro" title="Astro" src="https://img.shields.io/badge/Astro-24292F?style=flat-square&logo=astro&logoColor=BC52EE" /> <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" /> <img alt="Three.js" title="Three.js" src="https://img.shields.io/badge/Three.js-24292F?style=flat-square&logo=threedotjs&logoColor=FFFFFF" />
+<img alt="React" title="React" src="https://img.shields.io/badge/React-24292F?style=flat-square&logo=react&logoColor=61DAFB" /> <img alt="Svelte" title="Svelte" src="https://img.shields.io/badge/Svelte-24292F?style=flat-square&logo=svelte&logoColor=FF3E00" /> <img alt="Astro" title="Astro" src="https://img.shields.io/badge/Astro-24292F?style=flat-square&logo=astro&logoColor=BC52EE" /> <img alt="Next.js" title="Next.js" src="https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+
+**Creative**
+
+<img alt="Three.js" title="Three.js" src="https://img.shields.io/badge/Three.js-24292F?style=flat-square&logo=threedotjs&logoColor=FFFFFF" /> <img alt="Godot" title="Godot" src="https://img.shields.io/badge/Godot-24292F?style=flat-square&logo=godotengine&logoColor=6FA8DC" />
 
 **Backend and AI**
 
@@ -63,7 +67,7 @@ Side builds, private while in progress.
 
 **Data and infrastructure**
 
-<img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=7BA7F7" /> <img alt="Redis" title="Redis" src="https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=FF4438" /> <img alt="DuckDB" title="DuckDB" src="https://img.shields.io/badge/DuckDB-24292F?style=flat-square&logo=duckdb&logoColor=FFF000" /> <img alt="Apache Pulsar" title="Apache Pulsar" src="https://img.shields.io/badge/Apache_Pulsar-24292F?style=flat-square&logo=apachepulsar&logoColor=188FFF" /> <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED" /> <img alt="GCP" title="GCP" src="https://img.shields.io/badge/GCP-24292F?style=flat-square&logo=googlecloud&logoColor=4285F4" />
+<img alt="PostgreSQL" title="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=A5C4FF" /> <img alt="Redis" title="Redis" src="https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=FF4438" /> <img alt="DuckDB" title="DuckDB" src="https://img.shields.io/badge/DuckDB-24292F?style=flat-square&logo=duckdb&logoColor=FFF000" /> <img alt="Apache Pulsar" title="Apache Pulsar" src="https://img.shields.io/badge/Apache_Pulsar-24292F?style=flat-square&logo=apachepulsar&logoColor=188FFF" /> <img alt="Docker" title="Docker" src="https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=2496ED" /> <img alt="GCP" title="GCP" src="https://img.shields.io/badge/GCP-24292F?style=flat-square&logo=googlecloud&logoColor=4285F4" />
 
 ## Let's build
 
